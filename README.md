@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This repository contains my personal portfolio website showcasing my projects, skills, and experience in Machine Learning, AI, and Data Analytics.
+This repository contains my personal portfolio website showcasing my projects, skills, and experience in programming, Data Science, Analytics and Machine Learning.
 
 ## Purpose
 
